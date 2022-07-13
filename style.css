@@ -1,0 +1,22 @@
+#video{
+    width: 100;
+    height: 500;
+    border: none;
+
+}
+
+.campus_lifeDiv
+{
+    border: 1px solid lightgray;
+}
+
+.campus_lifeDiv img
+{
+    width: 100%;
+}
+
+.campus_lifeDiv h5 , .campus_life p
+{
+    margin: 20px;
+}
+
